@@ -4,7 +4,7 @@ A complete, production-ready salon management web application for tracking emplo
 
 ## 🚀 Live Demo
 
-[View Live App](https://jolly-clafoutis-db6889.netlify.app)
+[View Live App](https://project-b3e9o.vercel.app/)
 <img width="1706" height="944" alt="Screenshot 2026-04-26 at 16 41 22" src="https://github.com/user-attachments/assets/1db0610a-acae-4e6e-b86c-d417d7bb0dd6" />
 
 **Demo Credentials:**
